@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I am fascinated by incentive design, systems, processes, expressive type systems and marketplace microstructures. Current framework of choice is react/ts/node.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I can be contacted @ 0xiflp@gmail.com
